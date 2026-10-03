@@ -30,6 +30,21 @@ const roles: Role[] = [
   },
   {
     id: 'brightroot',
+    period: 'July 2026 – Present',
+    status: 'current',
+    title: 'Internship Manager',
+    org: 'BrightRoot VA',
+    location: 'Remote',
+    category: 'leadership',
+    bullets: [
+      'Created 2 master databases and dashboards to log activities and records related to the journey of each intern - from applicant to intern graduate.',
+      'Conducted regular internship orientation to help set proper expectations for the internship',
+      'Developed an intern performance evaluation tool for partner establishments to use in assessing the interns deployed to their establishment.',
+      'Conduct regular check-in with 4-5 executive assistant interns to make sure that they have the right support and are performing their duties.',
+    ],
+  },
+  {
+    id: 'brightroot',
     period: 'Feb 2026 – Present',
     status: 'current',
     title: 'Healthcare Training Specialist',
